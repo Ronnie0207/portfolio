@@ -170,6 +170,8 @@ section {
 
 .profile-pic {
     border-radius: 12.5rem;
+    max-width: 100%;
+    height: auto;
 }
 
 .section-text {
