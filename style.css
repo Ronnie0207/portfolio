@@ -163,8 +163,8 @@ section {
 
 .section-pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 25rem;
+    width: 25rem;
     margin: auto 0;
 }
 
