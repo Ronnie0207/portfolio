@@ -64,6 +64,9 @@
     .btn-container {
         flex-wrap: wrap;
     }
+    #about {
+        margin-top: 5rem;
+    }
     .contact-info-container {
         margin: 0;
     }
