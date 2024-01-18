@@ -67,6 +67,11 @@
     #about {
         margin-top: 5rem;
     }
+    .about-pic {
+        border-radius: 2rem;
+        max-width: 100%;
+        height: auto;
+    }
     .contact-info-container {
         margin: 0;
     }
